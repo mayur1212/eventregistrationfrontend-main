@@ -29,6 +29,7 @@ Thumbs.db
 # Misc
 *.zip
 *.mp4
+!src/assets/*.mp4
 build.zip
 
 # Optional (IDE files)
